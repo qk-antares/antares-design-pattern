@@ -1,4 +1,4 @@
-package com.antares.dp.singleton;
+package com.antares.dp.construct.singleton;
 
 public class SingletonUnsafe {
     private static SingletonUnsafe instance;
